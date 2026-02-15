@@ -1,6 +1,6 @@
 # Venkata Sairam Gollamudi
 
-🚀 Lead AI Engineer | Full-Stack Architect | Agentic AI Systems | AWS & Azure Certified  
+🚀 Lead AI Engineer | Full-Stack Architect | Agentic AI Systems | Azure Certified  
 
 I design and build production-grade AI platforms, developer tooling, and large-scale cloud systems that power real-world enterprise applications.
 
